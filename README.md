@@ -4,14 +4,14 @@ A simple Node.js application containerized using Docker.
 
 ---
 
-## 📌 Features
+## Features
 - Lightweight Node.js HTTP server
 - Dockerized using official Node image
 - Easy to build and run
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Node.js
 - Docker
 
@@ -27,31 +27,10 @@ A simple Node.js application containerized using Docker.
 
 ---
 
-## ⚙️ How to Run
-
-### 1. Build Docker Image
-docker build -t node-app .
-
-### 2. Run Container
-docker run -d -p 3000:3000 node-app
-
----
-
-## 🌐 Access App
-Open in browser:
-http://localhost:3000
-
----
-
-## 📦 Output
-Hello from Docker 🚀
-
----
-
-## 📖 Learning Outcome
+## Learning Outcome
 - Learned Docker basics
 - Created Dockerfile
-- Built and ran containers
+- Built and run containers
 - Understood port mapping
 
 ---
