@@ -1,9 +1,5 @@
 # 🚀 Docker Project - docker-node-app
 
-A simple Node.js application containerized using Docker.
-
----
-
 ## Features
 - Lightweight Node.js HTTP server
 - Dockerized using official Node image
